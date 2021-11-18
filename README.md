@@ -1,5 +1,7 @@
 # HTangl-Controller
 
+![](https://github.com/HTangl/HTangl-Controller/blob/main/Pictures/Green%20Keycaps.png)
+
 The HTangl controller is an all digital game controller mainly made for Super Smash Brothers Melee  
 but it can be used for many different games including traditional fighting games and platformers.
 
