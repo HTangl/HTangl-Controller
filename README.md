@@ -28,6 +28,6 @@ Parts List:
 9 - Switch plate to PCB nuts - M3 nylon lock nut  
 2 - Panel mount USB C screws - M3-0.5 x 16mm Flat Head  
 4 - GC port screws - #4 x 1/2in pan head  
-6 - [M6 Hex drive socket cap screws](https://www.amazon.com/gp/product/B08LQNHFVR/ref=ppx_yo_dt_b_search_asin_title?ie)  
+6 - [M6 x 25 Hex drive socket cap screws](https://www.amazon.com/gp/product/B08LQNHFVR/ref=ppx_yo_dt_b_search_asin_title?ie)  
 2 - Gamecube controller extension cable  
 1 - 5 pin 2.54 pitch screw terminal  
