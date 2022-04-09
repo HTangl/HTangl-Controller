@@ -1,33 +1,17 @@
 # HTangl-Controller
 
-![](https://github.com/HTangl/HTangl-Controller/blob/main/Pictures/Green%20Keycaps.png)
+![](https://raw.githubusercontent.com/HTangl/HTangl-Controller/main/Pictures/Version%202/Light%20Green%20Caps.jpg)
 
 The HTangl controller is an all digital game controller mainly made for Super Smash Brothers Melee  
-but it can be used for many different games including traditional fighting games and platformers.
+but it can be used for many different games including traditional fighting games and platformers.  
 
-It runs on a [modified version](https://github.com/HTangl/HTangl-Firmware) of the [HayB0XX firmware](https://github.com/JonnyHaystack/HayB0XX). 
+It runs on a [modified version](https://github.com/HTangl/HTangl-Firmware) of the [HayB0XX firmware](https://github.com/JonnyHaystack/HayB0XX).  
 
-The design of the controller is based on [The B0XX](https://b0xx.com/), [Frame 1](https://frame1.gg/) and [GCCMX](https://www.craneslab.xyz/projects/mx)
+The design of the controller is based on [The B0XX](https://b0xx.com/), [Frame 1](https://frame1.gg/) and [GCCMX](https://www.craneslab.xyz/projects/mx)  
 
-DXF, Gerber and Kicad files are all in this repo and you are free to use them to make your  
-own version of the controller or a clone. If you're making a clone for resale please credit this repository.
+Design files are all in this repo and you are free to use them to make your  
+own version of the controller or a clone. If you are making a clone for resale please credit this repository.
 
-The bottom panel is made of 1/4in birch plywood  
-The frame is 3/4in birch plywood  
-The switch plate is 5052 aluminum  
-The top panel is 1/4in (6mm) extruded acrylic  
+This controller is not especially easy to DIY, Version 2 requiers a large 3D printed case which I print all in one piece on a large format FDM printer. The top panel and switch plate are also laser cut and the PCB requires some custom parts like the 2 USB ports. If you are not already somewhat familier with 3D printing, soldering, CAD and PCB manufacturing then I do not recommend trying to make one of these controllers.  
 
-Parts List:  
-22 - Gateron Clear 35 gram keyboard switches  
-22 - PBT DSA profile keycaps  
-22 - Kailh hotswap sockets  
-1 - [Adafruit ItsyBitsy 32U4 - 5V Microcontroller](https://www.adafruit.com/product/3677)  
-1 - 3.3v to 5v logic level converter  
-1 - [USB micro to USB C panel mount cable](https://www.adafruit.com/product/4056)  
-9 - Switch plate to PCB screws - M3-0.5 x 12mm Flat Head  
-9 - Switch plate to PCB nuts - M3 nylon lock nut  
-2 - Panel mount USB C screws - M3-0.5 x 16mm Flat Head  
-4 - GC port screws - #4 x 1/2in pan head  
-6 - [M6 x 25 Hex drive socket cap screws](https://www.amazon.com/gp/product/B08LQNHFVR/ref=ppx_yo_dt_b_search_asin_title?ie)  
-2 - Gamecube controller extension cable  
-1 - 5 pin 2.54 pitch screw terminal  
+I created a simplified version of this controller specifically meant for DIY called the [BudgeTangl](https://github.com/HTangl/BudgeTangl), please check out that repository if you're just looking to make a simple controller.
